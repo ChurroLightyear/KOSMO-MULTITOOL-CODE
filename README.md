@@ -1,4 +1,4 @@
-# KOSMO-MULTITOOL-POLY-CODE
+# KOSMO MULTITOOL POLY CODE
 This is a polyphonic code for the Kosmo Multitool by Polykit: https://github.com/polykit/kosmo-multitool
 
 I use this on my personal synth and I wasn't planning on using the quantizer, adsr or multiple modes on there so if you want those in be sure to remove the "//" in the main file. I kept the arpeggiator in because I use that. If you don't want the other modules be sure to remove the files from the director that main.ino is in.
